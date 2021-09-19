@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BochkarevArtem-ThomasCooper
+- 👀 I’m interested in developing usefull software. I would get knoleged in machine learning, bigdata, databases and 3D graphics. 
+- 🌱 I’m currently learning Python.
+- 💞️ I’m not looking for collaborations just yet.
+- 📫 But if you would like to contact me, send a request here.
